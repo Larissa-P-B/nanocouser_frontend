@@ -1,0 +1,135 @@
+body{
+    background-color: #530580;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+
+    
+}
+.div1{
+    width: 80%;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    align-items: center;
+    background-color: black;
+    background-image: url(../img/72ffafb41c608aecf1eae721825095b9.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100px;
+    
+    
+}
+.div2{
+    background-color: #470367;
+    width: 80%;
+    margin: 30px auto;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 4px 3px black;
+    border-radius: 10px;
+    background-color: black;
+    background-image: url(../img/72ffafb41c608aecf1eae721825095b9.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100px;
+}
+
+.div3{
+    background-color: #470367;
+    width: 80%;
+    margin: 30px auto;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 4px 3px black;
+    border-radius: 10px;
+    background-color: black;
+    background-image: url(../img/72ffafb41c608aecf1eae721825095b9.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100px;
+} 
+
+.div4{
+    background-color: #470367;
+    width: 80%;
+    margin: 30px auto;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 4px 3px black;
+    border-radius: 10px;
+    background-color: black;
+    background-image: url(../img/72ffafb41c608aecf1eae721825095b9.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100px;
+} 
+
+h1{
+    align-items: center;
+    color: blueviolet;
+    
+    text-align: center;
+    font-size: 40px;
+}
+
+h2{
+    align-items: center;
+    color: blueviolet;
+    
+    text-align: center;
+    
+    font-size: 30px;
+}
+
+h3{
+    color: blueviolet;
+    text-align: center;
+}
+
+p{
+    color: #d16dff;
+    text-align: justify;
+    text-decoration: underline;
+   
+}
+a{
+    color: blue;
+    font-weight: 700;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: aqua;
+    text-decoration: underline;
+}
+ul,ol{
+    color: blueviolet;
+    list-style: url(../img/tech.png);
+    list-style-position: inside;
+    text-align: center;
+    
+}
+
+
+img{
+    width: 40%;
+    border-radius: 15px;
+    filter: drop-shadow(10px 10px 10px #7811f3);
+    
+}
