@@ -42,6 +42,10 @@ body{
     background-position: 100px;
 }
 
+.div2 ol li{
+    padding: 5px;
+}
+
 .div3{
     background-color: #470367;
     width: 80%;
@@ -103,7 +107,7 @@ h3{
 p{
     color: #d16dff;
     text-align: justify;
-    text-decoration: underline;
+    font-size: 20px;
    
 }
 a{
@@ -123,8 +127,35 @@ ul,ol{
     list-style: url(../img/tech.png);
     list-style-position: inside;
     text-align: center;
+   
     
 }
+
+nav {
+    background-color: #530580;
+    background-image: url(../img/72ffafb41c608aecf1eae721825095b9.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px 3px black;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+nav a {
+    color: #d16dff;
+    padding: 10px 15px;
+    text-decoration: none;
+    text-align: center;
+  }
+
+nav a:hover {
+    background-color: #530580;
+  }
 
 
 img{
